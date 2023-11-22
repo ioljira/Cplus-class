@@ -1,0 +1,19 @@
+ #include <iostream>
+// adding two integers
+
+using namespace std; 
+
+int main() {
+
+	int total; 
+
+	int number_one = 50; 
+
+	int number_two = 100; 
+		 
+	total = number_one + number_two; 
+
+	cout << total;
+
+	return 0; 
+}
